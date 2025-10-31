@@ -89,8 +89,8 @@
 ## 📍 Location
 
 ```
-🇷🇼 Tumba, Huye, Rwanda
-🎓 Carnegie Mellon University (Remote)
+🇷🇼 Kigali, Rwanda
+🎓 Carnegie Mellon University (Graduate Bridge Program)
 🌍 Available for Remote Opportunities
 ```
 
