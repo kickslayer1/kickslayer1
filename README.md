@@ -11,8 +11,7 @@
 - 🎓 **Business Information Technology Graduate** from University of Rwanda
 - 📊 **Data Analysis Specialist** with expertise in Python, R, Power BI, and Tableau
 - 🌐 **Network Administrator** experienced in LAN setup, CCTV systems, and PBX telephony
-- 🎯 Currently pursuing **Graduate Bridge Program** at **Carnegie Mellon University**
-- 🇷🇼 Based in **Tumba, Huye, Rwanda**
+- 🇷🇼 Based in **Kigali, Rwanda**
 - 💼 Former **Network Admin Intern** at Saltel Training Center
 - 📈 Former **Data Clerk** at Duhozanye LTD (Inventory Control Systems)
 
